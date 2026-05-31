@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧠 Grinding DSA daily in C++ and Python<br>📈 Solved 130+ LeetCode problems — 96 Easy, 33 Medium, 1 Hard<br>🏅 Earned 50 Days Badge 2026 on LeetCode<br>🔥 Max streak: 33 days<br>💻 Built a Student Internship Management System (Java + MySQL)<br>📍 Mangaluru, Karnataka, India
+🧠 Grinding DSA daily in C++ and Python<br>📈 Solved 130+ LeetCode problems — 96 Easy, 33 Medium, 1 Hard<br>🏅 Earned 50 Days Badge 2026 on LeetCode<br>🔥 Max streak: 44 days<br>💻 Built a Student Internship Management System (Java + MySQL)<br>📍 Mangaluru, Karnataka, India
 
 
 ## 🌐 Socials:
