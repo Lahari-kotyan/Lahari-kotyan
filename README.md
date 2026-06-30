@@ -133,23 +133,15 @@
 
 ---
 
-# 🏅 Achievements
-
-- 💻 Building projects regularly
-- 📚 Learning new technologies every day
-- 🚀 Improving problem-solving skills
-- 🌱 Growing through Open Source
 
 ---
 
 # 📚 2026 Goals
 
-- ✅ Master Data Structures & Algorithms
-- ✅ Become proficient in C++
 - ✅ Learn Full Stack Development
 - ✅ Build AI & ML Projects
 - ✅ Contribute to Open Source
-- ✅ Secure a Software Engineering Internship
+
 
 ---
 
@@ -159,17 +151,7 @@
 
 ---
 
-# ⚡ Fun Fact
 
-```cpp
-while(!success)
-{
-    Learn();
-    Practice();
-    Build();
-    Repeat();
-}
-```
 
 ---
 
