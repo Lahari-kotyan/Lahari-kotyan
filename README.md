@@ -1,164 +1,155 @@
-<div align="center">
+<!-- ================= HEADER ================= -->
 
-# Hi 👋, I'm Lahari Kotian
+<h1 align="center">Hi, I'm Lahari Kotian 👋</h1>
 
-### 🚀 Aspiring Software Engineer | AIML Student | Full Stack Developer | Open Source Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Artificial+Intelligence+%26+Machine+Learning;Full+Stack+Web+Developer;C%2B%2B+%7C+Python+%7C+Java;Building+Projects+That+Solve+Real+Problems" alt="Typing SVG" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Lahari-kotyan&label=Profile%20Views&color=7aa2f7&style=for-the-badge"/>
-
-</div>
-
----
-
-# 🌟 About Me
-
-🎓 AIML Engineering Student from **Mangaluru, Karnataka**
-
-💻 Passionate about Software Development
-
-🤖 Exploring Artificial Intelligence & Machine Learning
-
-🌐 Learning Full Stack Web Development
-
-📚 Solving Data Structures & Algorithms every day
-
-🚀 Building practical projects and improving consistently
-
-🎯 Goal: Software Engineer at a Product-Based Company
-
----
-
-# 🌱 Currently Learning
-
-- 🔹 C++ & Advanced DSA
-- 🔹 Python
-- 🔹 JavaScript
-- 🔹 React.js
-- 🔹 Node.js
-- 🔹 SQL
-- 🔹 Git & GitHub
-- 🔹 AI & Machine Learning
-
----
-
-# 💻 Tech Stack
-
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript"/>
+<p align="center">
+  <b>Aspiring Software Engineer | AIML Student | Building impactful software.</b><br/>
+  <i>Learn • Code • Build • Improve • Repeat 🚀</i>
 </p>
 
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css"/>
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,azure"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub;Artificial+Intelligence+%26+Machine+Learning;Full+Stack+Web+Development;Data+Structures+%26+Algorithms;Building+Real-World+Projects;Always+Learning+Something+New" />
 </p>
 
 ---
 
-# 🌐 Connect With Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Lahari-kotyan&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
 
-<p>
+---
 
-<a href="mailto:kotianlahari@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+## 🧭 Developer Identity
+
+```txt
+Name      : Lahari Kotian
+Role      : AIML Engineering Student
+Focus     : AI | Machine Learning | Full Stack Development
+Location  : Mangaluru, Karnataka, India
+Goal      : Software Engineer at a Product-Based Company
+Mindset   : Consistency beats perfection.
+```
+
+## 🌐 Connect With Me
+
+<p align="center">
 
 <a href="https://www.linkedin.com/in/lahari-kotian-84706b398/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:kotianlahari@gmail.com">
+<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+## ⚙️ Tech Stack
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lahari-kotyan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lahari-kotyan&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,mysql,git,github,vscode,figma,azure"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🌱 Currently Learning
+
+```txt
+• Advanced C++
+• Data Structures & Algorithms
+• JavaScript
+• React.js
+• Node.js
+• SQL
+• Artificial Intelligence
+• Machine Learning
+```
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Lahari-kotyan&theme=tokyonight&hide_border=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Lahari-kotyan&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="160" src="https://streak-stats.demolab.com?user=Lahari-kotyan&theme=github-dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lahari-kotyan&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lahari-kotyan&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lahari-kotyan&theme=github-dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 | Project | Description |
 |---------|-------------|
-| 🎮 Python Game Projects | Collection of beginner-friendly Python games |
-| 📄 PDF Maker | Simple PDF generation application |
-| 🌐 Learn Git & GitHub | Notes and examples for mastering Git |
-| 💻 Java Projects | Java practice projects |
-| 🤖 AI & ML Projects | Coming Soon... |
+| 🎮 Python Game Projects | Beginner-friendly Python games |
+| 📄 PDF Maker | PDF creation utility |
+| 🌐 Learn Git & GitHub | Git & GitHub learning repository |
+| 💻 Java Projects | Java practice applications |
+| 🤖 AI Projects | AI & ML projects coming soon |
 
 ---
 
+## 💡 Developer Quote
+
+<p align="center">
+
+> **"Every expert was once a beginner who never gave up."**
+
+</p>
 
 ---
 
-# 📚 2026 Goals
+## 🛰️ Current Status
 
-- ✅ Learn Full Stack Development
-- ✅ Build AI & ML Projects
-- ✅ Contribute to Open Source
-
-
----
-
-# 💡 Quote
-
-> **"Consistency beats intensity. Build something every day."**
+```txt
+Learning   : AI, Machine Learning & Full Stack Development
+Building   : Real-world software projects
+Practicing : Data Structures & Algorithms
+Goal 2026  : Internship → Product-Based Company
+```
 
 ---
 
+## ⚡ Fun Fact
 
+```cpp
+while(!dreamJob)
+{
+    Learn();
+    Practice();
+    BuildProjects();
+    StayConsistent();
+}
+```
 
 ---
 
-<div align="center">
+<p align="center">
 
-### ⭐ Thanks for visiting my profile! ⭐
+### ⭐ Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=120&section=footer"/>
+*"Code with passion. Learn with curiosity. Build with purpose."*
 
-</div>
+</p>
