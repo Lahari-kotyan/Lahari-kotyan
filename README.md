@@ -1,92 +1,111 @@
-<h1 align="center">Hi 👋, I'm Lahari Kotian</h1>
-<h3 align="center">Aspiring Software Engineer | AI & ML Enthusiast | Full Stack Developer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lahari-kotyan&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
+# Hi 👋, I'm Lahari Kotian
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/lahari-kotian-84706b398/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:kotianlahari@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+### 🚀 Aspiring Software Engineer | AIML Student | Full Stack Developer | Open Source Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Artificial+Intelligence+%26+Machine+Learning;Full+Stack+Web+Developer;C%2B%2B+%7C+Python+%7C+Java;Building+Projects+That+Solve+Real+Problems" alt="Typing SVG" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Lahari-kotyan&label=Profile%20Views&color=7aa2f7&style=for-the-badge"/>
+
+</div>
 
 ---
 
-# 💫 About Me
+# 🌟 About Me
 
-🎓 AIML Engineering Student
+🎓 AIML Engineering Student from **Mangaluru, Karnataka**
 
-💻 Passionate about Full Stack Web Development & Software Engineering
+💻 Passionate about Software Development
 
 🤖 Exploring Artificial Intelligence & Machine Learning
 
-🌱 Currently learning
-- C++
-- Python
-- JavaScript
-- React
-- Node.js
+🌐 Learning Full Stack Web Development
 
-🧩 Solving Data Structures & Algorithms problems daily
+📚 Solving Data Structures & Algorithms every day
 
-🚀 Building real-world projects and contributing to Open Source
+🚀 Building practical projects and improving consistently
 
-🎯 Goal: Become a Software Engineer at a top Product-Based Company
-
-📍 Mangaluru, Karnataka, India
+🎯 Goal: Software Engineer at a Product-Based Company
 
 ---
 
-# 🚀 Tech Stack
+# 🌱 Currently Learning
 
-### Languages
+- 🔹 C++ & Advanced DSA
+- 🔹 Python
+- 🔹 JavaScript
+- 🔹 React.js
+- 🔹 Node.js
+- 🔹 SQL
+- 🔹 Git & GitHub
+- 🔹 AI & Machine Learning
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=FFD43B)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+---
+
+# 💻 Tech Stack
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript"/>
+</p>
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css"/>
+</p>
 
 ### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,azure"/>
+</p>
 
 ---
 
-# 📊 GitHub Statistics
+# 🌐 Connect With Me
+
+<p>
+
+<a href="mailto:kotianlahari@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/lahari-kotian-84706b398/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lahari-kotyan&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lahari-kotyan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lahari-kotyan&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Lahari-kotyan&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🔥 GitHub Streak
 
 <p align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Lahari-kotyan&theme=tokyonight&no-frame=true&row=1&column=6)
+<img src="https://streak-stats.demolab.com?user=Lahari-kotyan&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -94,18 +113,70 @@
 
 # 📈 Contribution Graph
 
-[![Lahari's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lahari-kotyan&theme=tokyo-night)](https://github.com/Lahari-kotyan)
-
----
-
-# ✨ Quote
-
-> "Consistency beats intensity. Code every day, improve every day."
-
----
-
 <p align="center">
 
-### ⭐ Thanks for visiting my profile ⭐
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lahari-kotyan&theme=tokyo-night&hide_border=true"/>
 
 </p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🎮 Python Game Projects | Collection of beginner-friendly Python games |
+| 📄 PDF Maker | Simple PDF generation application |
+| 🌐 Learn Git & GitHub | Notes and examples for mastering Git |
+| 💻 Java Projects | Java practice projects |
+| 🤖 AI & ML Projects | Coming Soon... |
+
+---
+
+# 🏅 Achievements
+
+- 💻 Building projects regularly
+- 📚 Learning new technologies every day
+- 🚀 Improving problem-solving skills
+- 🌱 Growing through Open Source
+
+---
+
+# 📚 2026 Goals
+
+- ✅ Master Data Structures & Algorithms
+- ✅ Become proficient in C++
+- ✅ Learn Full Stack Development
+- ✅ Build AI & ML Projects
+- ✅ Contribute to Open Source
+- ✅ Secure a Software Engineering Internship
+
+---
+
+# 💡 Quote
+
+> **"Consistency beats intensity. Build something every day."**
+
+---
+
+# ⚡ Fun Fact
+
+```cpp
+while(!success)
+{
+    Learn();
+    Practice();
+    Build();
+    Repeat();
+}
+```
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile! ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=120&section=footer"/>
+
+</div>
