@@ -120,6 +120,6 @@ Goal 2026  : Internship → Product-Based Company
 ### ⭐ Thanks for visiting my profile!
 
 If you found my projects interesting or helpful, **consider giving a ⭐ to my repositories.**  
-Your support motivates me to keep building, learning, and sharing more projects. 🚀
+Your support motivates me to keep building, learning and sharing more projects. 🚀
 
 </p>
