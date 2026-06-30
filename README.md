@@ -56,20 +56,7 @@ Mindset   : Consistency beats perfection.
 
 ---
 
-## 🌱 Currently Learning
 
-```txt
-• Advanced C++
-• Data Structures & Algorithms
-• JavaScript
-• React.js
-• Node.js
-• SQL
-• Artificial Intelligence
-• Machine Learning
-```
-
----
 
 ## 📊 GitHub Activity
 
@@ -111,15 +98,7 @@ Mindset   : Consistency beats perfection.
 
 ---
 
-## 💡 Developer Quote
 
-<p align="center">
-
-> **"Every expert was once a beginner who never gave up."**
-
-</p>
-
----
 
 ## 🛰️ Current Status
 
