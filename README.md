@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
 
-<h1 align="center">Hi, I'm Lahari Kotian 👋</h1>
+<h1 align="center">Hi, I'm Lahari kotian 👋</h1>
 
 <p align="center">
   <b>Aspiring Software Engineer | AIML Student | Building impactful software.</b><br/>
