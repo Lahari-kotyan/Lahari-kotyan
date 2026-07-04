@@ -26,8 +26,7 @@ Name      : Lahari Kotian
 Role      : AIML Engineering Student
 Focus     : AI | Machine Learning | Full Stack Development
 Location  : Mangaluru, Karnataka, India
-Goal      : Software Engineer at a Product-Based Company
-Mindset   : Consistency beats perfection.
+
 ```
 
 ## 🌐 Connect With Me
