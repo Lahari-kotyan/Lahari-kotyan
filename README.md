@@ -146,21 +146,6 @@ Goal      : Product-Based Software Engineer
 
 ✅ Crack a Product-Based Company
 
----
-
-# ⚡ Fun Fact
-
-```text
-while(alive)
-{
-    Learn();
-    Code();
-    Build();
-    Repeat();
-}
-```
-
----
 
 <h3 align="center">
 
