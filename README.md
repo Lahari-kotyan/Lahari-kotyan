@@ -107,13 +107,6 @@ Goal      : Product-Based Software Engineer
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Lahari-kotyan&theme=algolia&column=4&margin-w=15&margin-h=15"/>
-
-</p>
 
 ---
 
@@ -127,15 +120,7 @@ Goal      : Product-Based Software Engineer
 
 ---
 
-# 🐍 Contribution Snake
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Lahari-kotyan/Lahari-kotyan/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
 
 # 💡 Quote
 
