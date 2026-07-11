@@ -1,51 +1,63 @@
 <!-- ================= HEADER ================= -->
 
-<h1 align="center">Hi, I'm Lahari kotian 👋</h1>
+<h1 align="center">
+Hi 👋, I'm <span style="color:#58A6FF;">Lahari Kotian</span>
+</h1>
+
+<h3 align="center">
+Aspiring Software Engineer • AIML Student • Problem Solver 🚀
+</h3>
 
 <p align="center">
-  <b>Aspiring Software Engineer | AIML Student | Building impactful software.</b><br/>
-  <i>Learn • Code • Build • Improve • Repeat 🚀</i>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Artificial+Intelligence+%26+Machine+Learning;Full+Stack+Web+Development;Data+Structures+%26+Algorithms;Building+Real+World+Projects;Always+Learning+New+Things..." />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub;Artificial+Intelligence+%26+Machine+Learning;Full+Stack+Web+Development;Data+Structures+%26+Algorithms;Building+Real-World+Projects;Always+Learning+Something+New" />
+
+<img src="https://komarev.com/ghpvc/?username=Lahari-kotyan&label=Profile+Views&color=blue&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Lahari-kotyan?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/Lahari-kotyan?style=for-the-badge"/>
+
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lahari-kotyan&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
+# 👩‍💻 About Me
 
----
-
-## 🧭 Developer Identity
-
-```txt
+```yaml
 Name      : Lahari Kotian
-Role      : AIML Engineering Student
-Focus     : AI | Machine Learning | Full Stack Development
-Location  : Mangaluru, Karnataka, India
-
+Education : B.E. Artificial Intelligence & Machine Learning
+Location  : Mangaluru, Karnataka 🇮🇳
+Passion   : Software Development
+Currently : Learning AI + Full Stack + DSA
+Goal      : Product-Based Software Engineer
 ```
 
-## 🌐 Connect With Me
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/lahari-kotian-84706b398/">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:kotianlahari@gmail.com">
-<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/Lahari-kotyan">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
 
 ---
 
-## ⚙️ Tech Stack
+# 💻 Tech Stack
 
 <p align="center">
 
@@ -55,27 +67,57 @@ Location  : Mangaluru, Karnataka, India
 
 ---
 
+# 📚 Currently Learning
 
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 🌐 Full Stack Web Development
+- ⚡ Data Structures & Algorithms
+- ☁️ Cloud Computing
 
-## 📊 GitHub Activity
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🎮 Python Games | Beginner-friendly Python game collection |
+| 🌐 Git & GitHub Guide | Complete Git learning repository |
+| 📄 PDF Maker | PDF generation utility |
+| 💻 Java Projects | Java practice applications |
+| 🤖 AI Projects | AI & ML projects (Coming Soon) |
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Lahari-kotyan&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lahari-kotyan&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="160" src="https://streak-stats.demolab.com?user=Lahari-kotyan&theme=github-dark&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Lahari-kotyan&theme=github-dark&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lahari-kotyan&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lahari-kotyan&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Lahari-kotyan&theme=algolia&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -85,40 +127,62 @@ Location  : Mangaluru, Karnataka, India
 
 ---
 
-## 🚀 Featured Projects
+# 🐍 Contribution Snake
 
-| Project | Description |
-|---------|-------------|
-| 🎮 Python Game Projects | Beginner-friendly Python games |
-| 📄 PDF Maker | PDF creation utility |
-| 🌐 Learn Git & GitHub | Git & GitHub learning repository |
-| 💻 Java Projects | Java practice applications |
-| 🤖 AI Projects | AI & ML projects coming soon |
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Lahari-kotyan/Lahari-kotyan/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
 
 ---
 
+# 💡 Quote
 
+<p align="center">
 
-## 🛰️ Current Status
+> **"Code. Learn. Build. Improve. Repeat."**
 
-```txt
-Learning   : AI, Machine Learning & Full Stack Development
-Building   : Real-world software projects
-Practicing : Data Structures & Algorithms
-Goal 2026  : Internship → Product-Based Company
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+✅ Master DSA
+
+✅ Build 20+ Projects
+
+✅ Open Source Contributions
+
+✅ AI & Machine Learning
+
+✅ Full Stack Development
+
+✅ Crack a Product-Based Company
+
+---
+
+# ⚡ Fun Fact
+
+```text
+while(alive)
+{
+    Learn();
+    Code();
+    Build();
+    Repeat();
+}
 ```
 
 ---
 
+<h3 align="center">
 
+⭐ Thank you for visiting my profile!
 
----
+If you like my work, consider giving a ⭐ to my repositories.
 
-<p align="center">
+Happy Coding! 🚀
 
-### ⭐ Thanks for visiting my profile!
-
-If you found my projects interesting or helpful, **consider giving a ⭐ to my repositories.**  
-Your support motivates me to keep building, learning and sharing more projects. 🚀
-
-</p>
+</h3>
