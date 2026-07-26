@@ -1,125 +1,81 @@
-<h1 align="center">
-  Hi 👋, I'm Lahari Kotian
-</h1>
+<!-- ================= HEADER ================= -->
 
-<h3 align="center">
-  🤖 AIML Student | 💻 Aspiring Software Engineer | 🚀 Building Real-World Solutions
-</h3>
+<h1 align="center">Hi, I'm Lahari kotian 👋</h1>
 
 <p align="center">
-  <i>
-  "Learning today, building tomorrow."
-  </i>
+  <b>Aspiring Software Engineer | AIML Student | Building impactful software.</b><br/>
+  <i>Learn • Code • Build • Improve • Repeat 🚀</i>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Full+Stack+Development;Data+Structures+%26+Algorithms;Problem+Solving+Enthusiast;Building+Innovative+Projects;Always+Learning+%F0%9F%9A%80"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub;Artificial+Intelligence+%26+Machine+Learning;Full+Stack+Web+Development;Data+Structures+%26+Algorithms;Building+Real-World+Projects;Always+Learning+Something+New" />
 </p>
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Lahari-kotyan&label=Profile%20Views&color=blue&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Lahari-kotyan&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
+---
 
-# 🧑‍💻 About Me
+## 🧭 Developer Identity
 
-```yaml
-name: Lahari Kotian
-education: B.E Artificial Intelligence & Machine Learning
-college: Sahyadri College of Engineering & Management
-location: Mangaluru, Karnataka, India
+```txt
+Name      : Lahari Kotian
+Role      : AIML Engineering Student
+Focus     : AI | Machine Learning | Full Stack Development
+Location  : Mangaluru, Karnataka, India
 
-interests:
-  - Artificial Intelligence
-  - Machine Learning
-  - Software Development
-  - Data Structures & Algorithms
-
-currently_learning:
-  - Advanced DSA
-  - Full Stack Development
-  - Data Science
-  - Cloud Technologies
-
-goal:
-  - Become a Software Engineer and build impactful products
 ```
 
----
-
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/lahari-kotian-84706b398/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:kotianlahari@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 🛠️ Tech Stack
-
-
-### 👩‍💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript"/>
-</p>
-
-
-### 🌐 Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs"/>
-</p>
-
-
-### 🗄️ Database & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,figma"/>
-</p>
-
-
-### ☁️ Cloud & AI
-
-<p>
-<img src="https://skillicons.dev/icons?i=azure,aws,tensorflow"/>
-</p>
-
-
----
-
-# 📚 Coding Journey
+## ⚙️ Tech Stack
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Lahari-kotyan&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lahari-kotyan&theme=github-dark&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,mysql,git,github,vscode,figma,azure"/>
 
 </p>
-
-
-<p align="center">
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lahari-kotyan&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
 
 ---
 
-# 📈 Contribution Graph
 
+
+## 📊 GitHub Activity
+
+<p align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Lahari-kotyan&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="160" src="https://streak-stats.demolab.com?user=Lahari-kotyan&theme=github-dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lahari-kotyan&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
 
 <p align="center">
 
@@ -127,127 +83,42 @@ goal:
 
 </p>
 
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🎮 Python Game Projects | Beginner-friendly Python games |
+| 📄 PDF Maker | PDF creation utility |
+| 🌐 Learn Git & GitHub | Git & GitHub learning repository |
+| 💻 Java Projects | Java practice applications |
+| 🤖 AI Projects | AI & ML projects coming soon |
 
 ---
 
-# 🚀 Featured Projects
 
 
-<table>
+## 🛰️ Current Status
 
-<tr>
-
-<td width="50%">
-
-<h3 align="center">🎮 Python Game Projects</h3>
-
-<p align="center">
-Beginner-friendly games built using Python to strengthen programming fundamentals.
-</p>
-
-</td>
-
-
-<td width="50%">
-
-<h3 align="center">📄 PDF Maker</h3>
-
-<p align="center">
-A utility application for generating and managing PDF documents.
-</p>
-
-</td>
-
-</tr>
-
-
-<tr>
-
-<td width="50%">
-
-<h3 align="center">🌐 Git & GitHub Learning</h3>
-
-<p align="center">
-Repository documenting my journey of learning version control.
-</p>
-
-</td>
-
-
-<td width="50%">
-
-<h3 align="center">🤖 AI & ML Projects</h3>
-
-<p align="center">
-Exploring machine learning models and intelligent applications.
-</p>
-
-</td>
-
-</tr>
-
-</table>
-
-
----
-
-# 🎯 Current Focus
-
-
-```text
-🔥 Improving DSA problem solving skills
-
-🤖 Exploring Artificial Intelligence & Machine Learning
-
-💻 Building full-stack applications
-
-☁️ Learning cloud technologies
-
-🚀 Preparing for software engineering internships
+```txt
+Learning   : AI, Machine Learning & Full Stack Development
+Building   : Real-world software projects
+Practicing : Data Structures & Algorithms
+Goal 2026  : Internship → Product-Based Company
 ```
 
-
 ---
 
-# 🏆 Goals
-
-
-```
-2026:
-
-✔ Master Data Structures & Algorithms
-✔ Build impactful AI projects
-✔ Contribute to open source
-✔ Secure a software engineering internship
-✔ Grow as a developer
-```
 
 
 ---
-
-# 💡 Developer Mindset
-
 
 <p align="center">
 
-<b>
-Learn → Build → Fail → Improve → Repeat 🚀
-</b>
+### ⭐ Thanks for visiting my profile!
 
-</p>
+If you found my projects interesting or helpful, **consider giving a ⭐ to my repositories.**  
+Your support motivates me to keep building, learning and sharing more projects. 🚀
 
-
----
-
-<h2 align="center">
-⭐ Thanks for visiting my profile!
-</h2>
-
-
-<p align="center">
-
-If you like my work, consider starring ⭐ my repositories.
-
-Every star motivates me to keep learning and building 🚀
-
-</p>
+</p>          make this more beautiful                                            
