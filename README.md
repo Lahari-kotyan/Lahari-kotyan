@@ -116,41 +116,6 @@ Career Goal
 | 📊 PySpark Projects | Big Data processing and analytics |
 
 ---
-
-# 🎯 Current Focus
-
-```text
-📚 Learning      AI • Machine Learning • PySpark
-
-💻 Building      Real-World Projects
-
-🧩 Practicing    Data Structures & Algorithms
-
-🎯 Goal          Software Engineering Internship
-
-🚀 Dream         Product-Based Company
-```
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Lahari-kotyan&theme=algolia&no-frame=true&margin-w=15&row=2&column=4"/>
-
-</p>
-
----
-
-# 💡 Quote
-
-<p align="center">
-
-> **"Consistency beats intensity. Build something every day."**
-
-</p>
-
 ---
 
 <h3 align="center">
