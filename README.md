@@ -112,7 +112,7 @@ Career Goal
   <img src="https://raw.githubusercontent.com/Lahari-kotyan/Lahari-kotyan/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="95%"/>
 </p>
 
-> ℹ️ The snake animation is generated automatically by a GitHub Action (`.github/workflows/snake.yml`). It appears after the first workflow run creates the `output` branch — see setup instructions below.
+
 
 ---
 ---
