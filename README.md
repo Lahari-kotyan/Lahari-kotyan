@@ -96,10 +96,6 @@ Career Goal
 
 # 📈 Contribution Graph
 
----
-
-# 📈 Contribution Graph
-
 <p align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=Lahari-kotyan&theme=github-dark&hide_border=true&area=true"
