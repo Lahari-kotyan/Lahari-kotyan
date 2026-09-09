@@ -98,13 +98,23 @@ Career Goal
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Lahari-kotyan&theme=github-dark&hide_border=true&area=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Lahari-kotyan&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph"
     width="95%"
   />
 </p>
 
 ---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Lahari-kotyan/Lahari-kotyan/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="95%"/>
+  <img src="https://raw.githubusercontent.com/Lahari-kotyan/Lahari-kotyan/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="95%"/>
+</p>
+
+> ℹ️ The snake animation is generated automatically by a GitHub Action (`.github/workflows/snake.yml`). It appears after the first workflow run creates the `output` branch — see setup instructions below.
+
+---
 ---
 
 # 🚀 Featured Projects
@@ -128,5 +138,3 @@ Career Goal
 If you like my work, don't forget to ⭐ my repositories.
 
 Let's build something amazing together! 🚀
-
-</h3>
